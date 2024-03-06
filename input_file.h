@@ -1,5 +1,5 @@
-#ifndef PSWD
-#define PSWD
+#ifndef INPUT
+#define INPUT
 
 const int offset = 24;
 
