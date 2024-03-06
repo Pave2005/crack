@@ -129,7 +129,7 @@ byte_10462      db 0
 
 Для того чтобы поменять поманду в этой части программы можно в бинарном файле заменить байт команды jne на jmp.
 
-![](https://github.com/Pave2005/imgs/blob/main/Bits%20.png)
+![](https://github.com/Pave2005/imgs/blob/main/Bits1.png)
 
 Меняем байт 75h на EBh.
 ![](https://github.com/Pave2005/imgs/blob/main/Bits2.png)
