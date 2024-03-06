@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "password_2.0.h"
+#include "input_file.h"
 
 int main ()
 {
