@@ -6,7 +6,7 @@
 
 3 В зависимости от введенного значения на экран выводится фраза: "Access to info is open/closed!"
 
-[консоль](RD1.png)
+[консоль](/Users/pavelsumilo/Documents/GitHub/crack/RM1.png)
 
 
 ## _Функция TakeSyms_
