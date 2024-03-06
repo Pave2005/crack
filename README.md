@@ -6,7 +6,7 @@
 
 3 В зависимости от введенного значения на экран выводится фраза: "Access to info is open/closed!"
 
-![](https://github.com/Pave2005/crack/blob/main/RM1.png)
+![](RM1.png)
 
 
 ## _Функция TakeSyms_
