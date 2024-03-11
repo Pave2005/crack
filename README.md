@@ -6,7 +6,7 @@
 
 3 В зависимости от введенного значения, на экран выводится фраза: "Access to info is open/closed!"
 
-![](https://github.com/Pave2005/imgs/blob/main/RM1.png)
+![](RM1.jpg)
 
 
 ## _Функция TakeSyms_
@@ -129,11 +129,11 @@ byte_10462      db 0
 
 Для того чтобы поменять команду в этой части программы можно в бинарном файле заменить байт команды jne на jmp.
 
-![](https://github.com/Pave2005/imgs/blob/main/Bits1.png)
+![](Bits1.jpg)
 
 Меняем байт 75h на EBh.
 
-![](https://github.com/Pave2005/imgs/blob/main/Bits2.png)
+![](Bits2.jpg)
 
 #### Вывод:
 При использовании данной программы, при вводе любого пароля доступ будет открыт.
